@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Daniel/Unreal Projects/VR_Demo2/Content/basicLevel.umap",
+				"C:/Daniel/Unreal Projects/VR_Demo2/Content/pointCloud.uasset",
+				"C:/Daniel/Unreal Projects/VR_Demo2/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Daniel/Unreal Projects/VR_Demo2/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Daniel/Unreal Projects/VR_Demo2/Content/BP_topview.uasset",
+				"C:/Daniel/Unreal Projects/VR_Demo2/Content/NewTextureRenderTarget2D.uasset",
+				"C:/Daniel/Unreal Projects/VR_Demo2/Content/NewTextureRenderTarget2D_Mat.uasset",
+				"C:/Daniel/Unreal Projects/VR_Demo2/Content/pc_abdielhallway.uasset"
+			]
+		}
+	]
+}
